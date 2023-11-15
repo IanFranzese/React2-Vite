@@ -1,0 +1,16 @@
+.encabezado{
+    background-color: blanchedalmond;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.lista{
+    display: flex;
+    gap: 10px;
+}
+
+.lista li{
+    list-style: none;
+}
